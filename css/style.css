@@ -1,19 +1,6 @@
-.deb1{
-    height: 100px;
-    border: 2px dashed #2c3e50;
-}
-.deb2{
-    height: 900px;
-    border: 2px dashed #0f6e5b;
-}
-.deb3{
-    border: 2px dashed #bf1411;
-    line-height: 250px;
-    text-align: center;
-    font-size: xx-large;
-    text-transform: uppercase;
-    letter-spacing: .5rem;
-    background-color: #ff8f8f;
+#header{
+    color: #fff;
+    background-color: #2c3e50;
 }
 #start{
     background-color: #1abc9c;
@@ -29,4 +16,11 @@
 }
 #footer > div:nth-child(2){
     background-color:#2c3e50 ;
+}
+
+.divider_line{
+    height: 5px;
+    width: 100px;
+    background-color: #fff;
+    border-radius: 5px;
 }
