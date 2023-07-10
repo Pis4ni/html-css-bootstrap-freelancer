@@ -4,10 +4,21 @@
 }
 .deb2{
     height: 900px;
-    background-color:  #1abc9c;
     border: 2px dashed #0f6e5b;
 }
 .deb3{
     border: 2px dashed #bf1411;
-    border-bottom: ;
+    line-height: 250px;
+    text-align: center;
+    font-size: xx-large;
+    text-transform: uppercase;
+    letter-spacing: .5rem;
+    background-color: #ff8f8f;
+}
+#start{
+    background-color: #1abc9c;
+}
+#about{
+    background-color: #1abc9c;
+    color: #fff;
 }
